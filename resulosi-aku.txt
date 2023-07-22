@@ -2,6 +2,7 @@ RESOLUSI - AKU DI 2023
 
 -BELAJAR GIT
 -FLUTTER
+-Bikin aplikasi untuk di upload di appstore
 
 Belajar Linux 
 Belajar API
