@@ -2,3 +2,7 @@ RESOLUSI - AKU DI 2023
 -BELAJAR DART
 -BELAJAR GIT
 -FLUTTER
+
+Belajar Linux 
+Belajar API
+
